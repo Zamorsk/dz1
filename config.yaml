@@ -1,0 +1,3 @@
+hostname: local
+vfs_path: /Users/nikitanikonov/PycharmProjects/Emu/fs.tar
+log_path: /Users/nikitanikonov/PycharmProjects/Emu/log.log
